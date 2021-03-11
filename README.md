@@ -4,5 +4,5 @@
   <img width="1024" src="https://github.com/kerbstone52/Mace/blob/master/MACE.png">
 </p>
 <p style="text-align: center;">IMAGE: The Mace archaeoastronomy tool interface.</p>
-# Live Version
+Live Version:
 A live version of the Mace tool is available @ https://kerbstone52.github.io/Mace/index.html
